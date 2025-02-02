@@ -1,1 +1,0 @@
-246a05aff981b2554ee704dad0eb63f2  The.SELinux.Switch.ver.7.1.5.build.715.zip
